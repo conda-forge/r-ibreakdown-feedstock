@@ -5,7 +5,7 @@ Home: https://ModelOriented.github.io/iBreakDown/, https://github.com/ModelOrien
 
 Package license: GPL-3
 
-Feedstock license: BSD 3-Clause
+Feedstock license: BSD-3-Clause
 
 Summary: Model agnostic tool for decomposition of predictions from black boxes. Supports additive attributions and attributions with interactions. The Break Down Table shows contributions of every variable to a final prediction. The Break Down Plot presents variable contributions in a concise graphical way. This package works for classification and regression models. It is an extension of the 'breakDown' package (Staniak and Biecek 2018) <doi:10.32614/RJ-2018-072>, with new and faster strategies for orderings. It supports interactions in explanations and has interactive visuals (implemented with 'D3.js' library). The methodology behind is described in the 'iBreakDown' article (Gosiewska and Biecek 2019) <arXiv:1903.11420> This package is a part of the 'DrWhy.AI' universe (Biecek 2018) <arXiv:1806.08915>.
 
